@@ -151,7 +151,7 @@ During the course we will have personal real-world exercises helping you start i
 |Paniz|Ziaie| | | | |
 |Hania|Batt|https://haniabatt.github.io/Digital-Health/ | | | |
 |Maja|Czekała|https://Maja03.github.io|
-
+|Zakia|Rezay| | | | |
 
 ### Final Assignment (Research Paper)
 
@@ -168,4 +168,4 @@ Examples:
 - Very good on length and interaction with readership: https://www.linkedin.com/pulse/do-we-need-update-our-fundamental-rights-digital-realm-bart-de-witte/
 
 
-this is Zakia forked and edited the repository!
+
